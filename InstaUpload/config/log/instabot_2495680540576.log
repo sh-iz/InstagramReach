@@ -1,0 +1,44 @@
+2021-08-06 19:47:05,212 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2021-08-06 19:47:05,212 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Users\hrkadmin\AppData\Local\Programs\Python\Python39\lib\site-packages\instabot\bot\bot.py
+2021-08-06 19:47:05,244 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2021-08-06 19:47:05,245 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2021-08-06 19:47:05,245 - instabot version: 0.117.0 (api_login) - INFO - Recovery from k:\Projects\InstaReach\InstaUpload/config/platonicadmiration_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=695978f2-e634-4093-ac07-8ef7b949ba4f
+- uuid=6c1c035f-915c-43ac-874e-9407eb77e740
+- client_session_id=78c15d0f-d258-40bc-a09c-65f6febb2167
+- device_id=android-3105c9fdd8fa37a4
+2021-08-06 19:47:05,247 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2021-08-06 19:47:13,871 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2021-08-06 19:47:14,743 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2021-08-06 19:47:15,449 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: direct_v2/ranked_recipients/ returned response: <Response [200]>
+2021-08-06 19:47:15,903 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: direct_v2/ranked_recipients/ returned response: <Response [200]>
+2021-08-06 19:47:16,555 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: direct_v2/inbox/ returned response: <Response [200]>
+2021-08-06 19:47:17,297 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: direct_v2/get_presence/ returned response: <Response [200]>
+2021-08-06 19:47:18,858 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: news/inbox/?limited_activity=true&show_su=true returned response: <Response [200]>
+2021-08-06 19:47:19,301 - instabot version: 0.117.0 (api) - DEBUG - GET to endpoint: users/profile_notice/ returned response: <Response [200]>
+2021-08-06 19:47:21,191 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: discover/explore/ returned response: <Response [200]>
+2021-08-06 19:47:21,218 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'platonicadmiration'!
+2021-08-06 19:47:21,219 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: k:\Projects\InstaReach\InstaUpload/config/platonicadmiration.checkpoint
+2021-08-06 19:47:22,852 - instabot version: 0.117.0 (api_photo) - ERROR - Photo does not have a compatible photo aspect ratio.
+2021-08-06 19:47:22,852 - instabot version: 0.117.0 (bot_photo) - INFO - Photo 'K:\Projects\Auto Download Unsplash\Images\Motivational\pexels-daria-shevtsova-1356300.jpg' is not uploaded.
+2021-08-06 19:47:47,991 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/configure/? returned response: <Response [200]>
+2021-08-06 19:47:48,394 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/expose/ returned response: <Response [200]>
+2021-08-06 19:47:48,400 - instabot version: 0.117.0 (bot_photo) - INFO - Photo 'K:\Projects\Auto Download Unsplash\Images\Motivational\pexels-lisa-2923436.jpg' is uploaded.
+2021-08-06 19:47:51,085 - instabot version: 0.117.0 (api_photo) - ERROR - Photo does not have a compatible photo aspect ratio.
+2021-08-06 19:47:51,085 - instabot version: 0.117.0 (bot_photo) - INFO - Photo 'K:\Projects\Auto Download Unsplash\Images\Motivational\pexels-eva-elijas-6956352.jpg' is not uploaded.
+2021-08-06 19:48:14,911 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/configure/? returned response: <Response [200]>
+2021-08-06 19:48:15,287 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/expose/ returned response: <Response [200]>
+2021-08-06 19:48:15,293 - instabot version: 0.117.0 (bot_photo) - INFO - Photo 'K:\Projects\Auto Download Unsplash\Images\Motivational\pexels-matej-698324.jpg' is uploaded.
+2021-08-06 19:48:17,910 - instabot version: 0.117.0 (api_photo) - ERROR - Photo does not have a compatible photo aspect ratio.
+2021-08-06 19:48:17,910 - instabot version: 0.117.0 (bot_photo) - INFO - Photo 'K:\Projects\Auto Download Unsplash\Images\Motivational\pexels-daria-shevtsova-3793316.jpg' is not uploaded.
+2021-08-06 19:48:20,160 - instabot version: 0.117.0 (api_photo) - ERROR - Photo does not have a compatible photo aspect ratio.
+2021-08-06 19:48:20,160 - instabot version: 0.117.0 (bot_photo) - INFO - Photo 'K:\Projects\Auto Download Unsplash\Images\Motivational\peter-fogden-z7oytXGI6VI-unsplash.jpg' is not uploaded.
+2021-08-06 19:48:43,411 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/configure/? returned response: <Response [200]>
+2021-08-06 19:48:43,754 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/expose/ returned response: <Response [200]>
+2021-08-06 19:48:43,760 - instabot version: 0.117.0 (bot_photo) - INFO - Photo 'K:\Projects\Auto Download Unsplash\Images\Motivational\pexels-brett-jordan-9034744.jpg' is uploaded.
+2021-08-06 19:49:07,806 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/configure/? returned response: <Response [200]>
+2021-08-06 19:49:08,215 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/expose/ returned response: <Response [200]>
+2021-08-06 19:49:08,223 - instabot version: 0.117.0 (bot_photo) - INFO - Photo 'K:\Projects\Auto Download Unsplash\Images\Motivational\pexels-anna-tarazevich-6230973.jpg' is uploaded.
+2021-08-06 19:49:08,235 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: k:\Projects\InstaReach\InstaUpload/config/platonicadmiration.checkpoint
+2021-08-06 19:49:08,241 - instabot version: 0.117.0 (bot) - INFO - Total requests: 71

@@ -1,0 +1,15 @@
+2021-08-06 04:52:22,149 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2021-08-06 04:52:22,149 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Users\hrkadmin\AppData\Local\Programs\Python\Python39\lib\site-packages\instabot\bot\bot.py
+2021-08-06 04:52:22,152 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2021-08-06 04:52:22,152 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2021-08-06 04:52:22,152 - instabot version: 0.117.0 (api_login) - INFO - Recovery from k:\Projects\InstaReach/config/platonicadmiration_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=695978f2-e634-4093-ac07-8ef7b949ba4f
+- uuid=6c1c035f-915c-43ac-874e-9407eb77e740
+- client_session_id=9b1573da-c92b-4705-a6ca-47c90584b407
+- device_id=android-3105c9fdd8fa37a4
+2021-08-06 04:52:22,153 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2021-08-06 04:52:24,565 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2021-08-06 04:52:25,088 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2021-08-06 04:52:25,099 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'platonicadmiration'!
+2021-08-06 04:52:25,099 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: k:\Projects\InstaReach/config/platonicadmiration.checkpoint

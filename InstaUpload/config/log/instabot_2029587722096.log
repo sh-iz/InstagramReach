@@ -1,0 +1,20 @@
+2021-08-06 03:56:33,910 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2021-08-06 03:56:33,911 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Users\hrkadmin\AppData\Local\Programs\Python\Python39\lib\site-packages\instabot\bot\bot.py
+2021-08-06 03:56:33,914 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2021-08-06 03:56:33,915 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2021-08-06 03:56:33,915 - instabot version: 0.117.0 (api_login) - INFO - Recovery from k:\Projects\InstaReach/config/platonicadmiration_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=011687ce-1334-4558-8ee9-e519dd50efd1
+- uuid=9cc9eb89-0b0a-424a-a7cb-1d2636b332cc
+- client_session_id=9a714f38-0d1c-4e47-be99-a9304cd891f2
+- device_id=android-3105c9fdd8fa37a4
+2021-08-06 03:56:33,916 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2021-08-06 03:56:37,065 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2021-08-06 03:56:37,556 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2021-08-06 03:56:37,575 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'platonicadmiration'!
+2021-08-06 03:56:37,575 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: k:\Projects\InstaReach/config/platonicadmiration.checkpoint
+2021-08-06 03:57:01,998 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/configure/? returned response: <Response [200]>
+2021-08-06 03:57:02,422 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/expose/ returned response: <Response [200]>
+2021-08-06 03:57:02,434 - instabot version: 0.117.0 (bot_photo) - INFO - Photo 'K:\Projects\Auto Download Unsplash\Images\Motivational\johnson-wang-iI4sR_nkkbc-unsplash.jpg' is uploaded.
+2021-08-06 03:57:02,439 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: k:\Projects\InstaReach/config/platonicadmiration.checkpoint
+2021-08-06 03:57:02,449 - instabot version: 0.117.0 (bot) - INFO - Total requests: 35

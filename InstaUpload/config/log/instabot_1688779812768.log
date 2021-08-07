@@ -1,0 +1,90 @@
+2021-08-06 06:13:59,817 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2021-08-06 06:13:59,817 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Users\hrkadmin\AppData\Local\Programs\Python\Python39\lib\site-packages\instabot\bot\bot.py
+2021-08-06 06:13:59,820 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2021-08-06 06:13:59,821 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2021-08-06 06:13:59,821 - instabot version: 0.117.0 (api_login) - INFO - Recovery from k:\Projects\InstaReach\InstaUpload/config/platonicadmiration_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=695978f2-e634-4093-ac07-8ef7b949ba4f
+- uuid=6c1c035f-915c-43ac-874e-9407eb77e740
+- client_session_id=18f9263a-8d78-496f-b219-cdf7b259b598
+- device_id=android-3105c9fdd8fa37a4
+2021-08-06 06:13:59,823 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2021-08-06 06:14:02,999 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2021-08-06 06:14:03,365 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2021-08-06 06:14:03,377 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'platonicadmiration'!
+2021-08-06 06:14:03,378 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: k:\Projects\InstaReach\InstaUpload/config/platonicadmiration.checkpoint
+2021-08-06 06:14:06,068 - instabot version: 0.117.0 (api_photo) - ERROR - Photo does not have a compatible photo aspect ratio.
+2021-08-06 06:14:06,068 - instabot version: 0.117.0 (bot_photo) - INFO - Photo 'K:\Projects\Auto Download Unsplash\Images\Motivational\pexels-alizee-marchand-937786.jpg' is not uploaded.
+2021-08-06 06:14:06,074 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2021-08-06 06:14:06,074 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2021-08-06 06:14:06,075 - instabot version: 0.117.0 (api_login) - INFO - Recovery from k:\Projects\InstaReach\InstaUpload/config/platonicadmiration_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=695978f2-e634-4093-ac07-8ef7b949ba4f
+- uuid=6c1c035f-915c-43ac-874e-9407eb77e740
+- client_session_id=18f9263a-8d78-496f-b219-cdf7b259b598
+- device_id=android-3105c9fdd8fa37a4
+2021-08-06 06:14:06,075 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2021-08-06 06:14:07,574 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2021-08-06 06:14:07,984 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2021-08-06 06:14:07,995 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'platonicadmiration'!
+2021-08-06 06:14:07,995 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: k:\Projects\InstaReach\InstaUpload/config/platonicadmiration.checkpoint
+2021-08-06 06:14:36,496 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/configure/? returned response: <Response [200]>
+2021-08-06 06:14:36,793 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/expose/ returned response: <Response [200]>
+2021-08-06 06:14:36,797 - instabot version: 0.117.0 (bot_photo) - INFO - Photo 'K:\Projects\Auto Download Unsplash\Images\Motivational\pexels-alexas-fotos-2255441.jpg' is uploaded.
+2021-08-06 06:14:36,805 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2021-08-06 06:14:36,806 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2021-08-06 06:14:36,806 - instabot version: 0.117.0 (api_login) - INFO - Recovery from k:\Projects\InstaReach\InstaUpload/config/platonicadmiration_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=695978f2-e634-4093-ac07-8ef7b949ba4f
+- uuid=6c1c035f-915c-43ac-874e-9407eb77e740
+- client_session_id=18f9263a-8d78-496f-b219-cdf7b259b598
+- device_id=android-3105c9fdd8fa37a4
+2021-08-06 06:14:36,806 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2021-08-06 06:14:37,933 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2021-08-06 06:14:38,334 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2021-08-06 06:14:38,370 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'platonicadmiration'!
+2021-08-06 06:14:38,373 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: k:\Projects\InstaReach\InstaUpload/config/platonicadmiration.checkpoint
+2021-08-06 06:15:06,036 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/configure/? returned response: <Response [200]>
+2021-08-06 06:15:06,349 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/expose/ returned response: <Response [200]>
+2021-08-06 06:15:06,356 - instabot version: 0.117.0 (bot_photo) - INFO - Photo 'K:\Projects\Auto Download Unsplash\Images\Motivational\pexels-bich-tran-636243.jpg' is uploaded.
+2021-08-06 06:15:06,369 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2021-08-06 06:15:06,369 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2021-08-06 06:15:06,370 - instabot version: 0.117.0 (api_login) - INFO - Recovery from k:\Projects\InstaReach\InstaUpload/config/platonicadmiration_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=695978f2-e634-4093-ac07-8ef7b949ba4f
+- uuid=6c1c035f-915c-43ac-874e-9407eb77e740
+- client_session_id=18f9263a-8d78-496f-b219-cdf7b259b598
+- device_id=android-3105c9fdd8fa37a4
+2021-08-06 06:15:06,371 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2021-08-06 06:15:07,499 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2021-08-06 06:15:07,850 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2021-08-06 06:15:07,864 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'platonicadmiration'!
+2021-08-06 06:15:07,864 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: k:\Projects\InstaReach\InstaUpload/config/platonicadmiration.checkpoint
+2021-08-06 06:15:09,144 - instabot version: 0.117.0 (api_photo) - ERROR - Photo does not have a compatible photo aspect ratio.
+2021-08-06 06:15:09,144 - instabot version: 0.117.0 (bot_photo) - INFO - Photo 'K:\Projects\Auto Download Unsplash\Images\Motivational\pexels-polina-kovaleva-6185556.jpg' is not uploaded.
+2021-08-06 06:15:09,152 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2021-08-06 06:15:09,152 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2021-08-06 06:15:09,152 - instabot version: 0.117.0 (api_login) - INFO - Recovery from k:\Projects\InstaReach\InstaUpload/config/platonicadmiration_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=695978f2-e634-4093-ac07-8ef7b949ba4f
+- uuid=6c1c035f-915c-43ac-874e-9407eb77e740
+- client_session_id=18f9263a-8d78-496f-b219-cdf7b259b598
+- device_id=android-3105c9fdd8fa37a4
+2021-08-06 06:15:09,153 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2021-08-06 06:15:10,521 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2021-08-06 06:15:10,946 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2021-08-06 06:15:10,960 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'platonicadmiration'!
+2021-08-06 06:15:10,960 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: k:\Projects\InstaReach\InstaUpload/config/platonicadmiration.checkpoint
+2021-08-06 06:15:39,801 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: media/configure/? returned response: <Response [200]>
+2021-08-06 06:15:40,121 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: qe/expose/ returned response: <Response [200]>
+2021-08-06 06:15:40,127 - instabot version: 0.117.0 (bot_photo) - INFO - Photo 'K:\Projects\Auto Download Unsplash\Images\Motivational\pexels-polina-kovaleva-6185576.jpg' is uploaded.
+2021-08-06 06:15:40,133 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: k:\Projects\InstaReach\InstaUpload/config/platonicadmiration.checkpoint
+2021-08-06 06:15:40,138 - instabot version: 0.117.0 (bot) - INFO - Total requests: 51
+2021-08-06 06:15:40,138 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: k:\Projects\InstaReach\InstaUpload/config/platonicadmiration.checkpoint
+2021-08-06 06:15:40,145 - instabot version: 0.117.0 (bot) - INFO - Total requests: 51
+2021-08-06 06:15:40,145 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: k:\Projects\InstaReach\InstaUpload/config/platonicadmiration.checkpoint
+2021-08-06 06:15:40,150 - instabot version: 0.117.0 (bot) - INFO - Total requests: 51
+2021-08-06 06:15:40,150 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: k:\Projects\InstaReach\InstaUpload/config/platonicadmiration.checkpoint
+2021-08-06 06:15:40,155 - instabot version: 0.117.0 (bot) - INFO - Total requests: 51
+2021-08-06 06:15:40,156 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: k:\Projects\InstaReach\InstaUpload/config/platonicadmiration.checkpoint
+2021-08-06 06:15:40,160 - instabot version: 0.117.0 (bot) - INFO - Total requests: 51

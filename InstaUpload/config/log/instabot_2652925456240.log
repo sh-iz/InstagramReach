@@ -1,0 +1,19 @@
+2021-08-06 04:03:12,829 - instabot version: 0.117.0 (bot) - INFO - Instabot version: 0.117.0 Started
+2021-08-06 04:03:12,829 - instabot version: 0.117.0 (bot) - DEBUG - Bot imported from C:\Users\hrkadmin\AppData\Local\Programs\Python\Python39\lib\site-packages\instabot\bot\bot.py
+2021-08-06 04:03:12,831 - instabot version: 0.117.0 (api_login) - DEBUG - Loading cookies
+2021-08-06 04:03:12,831 - instabot version: 0.117.0 (api_login) - DEBUG - Loading uuids
+2021-08-06 04:03:12,831 - instabot version: 0.117.0 (api_login) - INFO - Recovery from k:\Projects\InstaReach/config/platonicadmiration_uuid_and_cookie.json: COOKIE True - UUIDs True - TIMING, DEVICE and ...
+- user-agent=Instagram 117.0.0.28.123 Android (28/9.0; 420dpi; 1080x1920; OnePlus; ONEPLUS A3003; OnePlus3; qcom; en_US; 180322800)
+- phone_id=695978f2-e634-4093-ac07-8ef7b949ba4f
+- uuid=6c1c035f-915c-43ac-874e-9407eb77e740
+- client_session_id=0dc334ba-f870-4471-af29-e1546ec1589a
+- device_id=android-3105c9fdd8fa37a4
+2021-08-06 04:03:12,832 - instabot version: 0.117.0 (api_login) - INFO - LOGIN FLOW! Just logged-in: False
+2021-08-06 04:03:15,165 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/timeline/ returned response: <Response [200]>
+2021-08-06 04:03:16,049 - instabot version: 0.117.0 (api) - DEBUG - POST to endpoint: feed/reels_tray/ returned response: <Response [200]>
+2021-08-06 04:03:16,060 - instabot version: 0.117.0 (api) - INFO - Logged-in successfully as 'platonicadmiration'!
+2021-08-06 04:03:16,060 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Loading Checkpoint file from: k:\Projects\InstaReach/config/platonicadmiration.checkpoint
+2021-08-06 04:03:18,092 - instabot version: 0.117.0 (api_photo) - ERROR - Photo does not have a compatible photo aspect ratio.
+2021-08-06 04:03:18,092 - instabot version: 0.117.0 (bot_photo) - INFO - Photo 'K:\Projects\Auto Download Unsplash\Images\Motivational\prateek-katyal-FcdtuGf7TEc-unsplash.jpg' is not uploaded.
+2021-08-06 04:03:18,097 - instabot version: 0.117.0 (bot_checkpoint) - DEBUG - Saving Checkpoint file to: k:\Projects\InstaReach/config/platonicadmiration.checkpoint
+2021-08-06 04:03:18,102 - instabot version: 0.117.0 (bot) - INFO - Total requests: 33
